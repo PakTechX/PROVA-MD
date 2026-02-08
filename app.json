@@ -1,8 +1,8 @@
 {
   "name": "ADEEL-MD",
-  "description": "Javascript WhatsApp bot made by ADEEL-MD",
-  "logo": "https://files.catbox.moe/x2qij1.jpg",
-  "keywords": ["ADEEL-MD"],
+  "description": "Javascript WhatsApp bot made by PROVA-MD",
+  "logo": "https://files.catbox.moe/e4za15.jpg",
+  "keywords": ["PROVA-MD"],
   "success_url": "/",
 
   "stack": "container",
@@ -16,7 +16,7 @@
     "STICKER_NAME": {
       "description": "type your sticker pack name.",
       "required": false,
-      "value": "ADEEL-MD"
+      "value": "PROVA-MD"
     }, 
       
     "PREFIX": {
@@ -76,25 +76,25 @@
     "AUTO_STATUS_MSG": {
       "description": "Type custom message on status reply",
       "required": true,
-      "value": "*SEEN YOUR STATUS BY ADEEL-MD 🖤*"
+      "value": "*SEEN YOUR STATUS BY PROVA-MD 🖤*"
     }, 
     
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "ADEEL-MD"
+      "value": "PROVA-MD"
     }, 
 
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "923035512967"
+      "value": "923147168309"
     }, 
 
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "ADEEL-MD"
+      "value": "PROVA-MD"
     }, 
 
     "ANTI_LINK": {
@@ -130,13 +130,13 @@
     "MENU_IMAGE_URL": {
       "description": "add url for mention reply and menu if want.",
       "required": false,
-      "value": "https://files.catbox.moe/x2qij1.jpg"
+      "value": "https://files.catbox.moe/e4za15.jpg"
     },
     
     "DESCRIPTION": {
       "description": "add caption for menu and other",
       "required": false,
-      "value": "*𝐂𝐑𝐄𝐀𝐓𝐄𝐑 𝐀𝐃𝐄𝐄𝐋-𝐌𝐃*"
+      "value": "*𝐂𝐑𝐄𝐀𝐓𝐄𝐑 PROVA-𝐌𝐃*"
     },
 
     "DELETE_LINKS": {
