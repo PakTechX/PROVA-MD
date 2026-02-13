@@ -21,7 +21,7 @@
 </h1>
 
 <p align="center">
-  <b>A multi-device WhatsApp bot created & maintained by <span style="color:#00FFFF">PROVA-TECH</span> 🚀</b>
+  <b>A multi-device WhatsApp bot created & maintained by <span style="color:#00FFFF">PakTechX</span> 🚀</b>
 </p>
 
 ---
@@ -29,13 +29,13 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 ## ⭐ 𝐅𝐎𝐑𝐊 & 𝐒𝐓𝐀𝐑
 <p align="center">
-  <a href="https://github.com/PROVA-TECH/PROVA-MD/fork">
+  <a href="https://github.com/PakTechX/PROVA-MD/fork">
     <img src="https://img.shields.io/badge/Fork-Repo-ff00ff?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
   <!-- ⭐ AUTO-UPDATE STAR BADGE (SPACING FIXED) -->
-  <a href="https://github.com/PROVA-TECH/PROVA-MD/stargazers">
-    <img src="https://img.shields.io/github/stars/PROVA-TECH/PROVA-MD?style=for-the-badge&color=gold&logo=github" />
+  <a href="https://github.com/PakTechX/PROVA-MD/stargazers">
+    <img src="https://img.shields.io/github/stars/PakTechX/PROVA-MD?style=for-the-badge&color=gold&logo=github" />
   </a>
 </p>
 
@@ -57,7 +57,7 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 ## 🚀 𝐃𝐄𝐏𝐋𝐎𝐘𝐄 𝐍𝐎𝐖 
 <p align="center">
-  <a href="https://dashboard.heroku.com/new?template=https://github.com/PROVA-TECH/PROVA-MD">
+  <a href="https://dashboard.heroku.com/new?template=https://github.com/PakTechX/PROVA-MD">
     <img src="https://img.shields.io/badge/Deploy-Heroku-7952B3?style=for-the-badge&logo=heroku&logoColor=white" />
   </a>
 </p>
