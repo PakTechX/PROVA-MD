@@ -26,10 +26,10 @@
 
 <p align="center">
   <a href="https://github.com/PakTechX/PROVA-MD/fork">
-    <img src="https://img.shields.io/badge/🍴_FORK_REPO-FFD700?style=for-the-badge&logo=github&logoColor=black"/>
+    <img src="https://img.shields.io/badge/🍴_FORK_REPO-FFD700?style=for-the-badge&logo=github&logoColor=black&gradient=gold,orange"/>
   </a>
   <a href="https://github.com/PakTechX/PROVA-MD/stargazers">
-    <img src="https://img.shields.io/badge/⭐_STAR_REPO-FFD700?style=for-the-badge&logo=github&logoColor=black"/>
+    <img src="https://img.shields.io/badge/⭐_STAR_REPO-FFD700?style=for-the-badge&logo=github&logoColor=black&gradient=gold,#fffacd"/>
   </a>
 </p>
 
@@ -43,7 +43,7 @@
 
 <p align="center">
   <a href="https://prova-md.onrender.com">
-    <img src="https://img.shields.io/badge/🔑_GET_SESSION_ID-FFD700?style=for-the-badge&logo=whatsapp&logoColor=black"/>
+    <img src="https://img.shields.io/badge/🔑_GET_SESSION_ID-FFD700?style=for-the-badge&logo=whatsapp&logoColor=black&gradient=gold,#ffec8b"/>
   </a>
 </p>
 
@@ -57,7 +57,7 @@
 
 <p align="center">
   <a href="https://dashboard.heroku.com/new?template=https://github.com/PakTechX/PROVA-MD">
-    <img src="https://img.shields.io/badge/🚀_DEPLOY_HEROKU-FFD700?style=for-the-badge&logo=heroku&logoColor=black"/>
+    <img src="https://img.shields.io/badge/🚀_DEPLOY_HEROKU-FFD700?style=for-the-badge&logo=heroku&logoColor=black&gradient=gold,#ffe680"/>
   </a>
 </p>
 
@@ -71,10 +71,10 @@
 
 <p align="center">
   <a href="https://whatsapp.com/channel/0029VbAhxYY90x2vgwhXJV3O">
-    <img src="https://img.shields.io/badge/📢_JOIN_CHANNEL-FFD700?style=for-the-badge&logo=whatsapp&logoColor=black"/>
+    <img src="https://img.shields.io/badge/📢_JOIN_CHANNEL-FFD700?style=for-the-badge&logo=whatsapp&logoColor=black&gradient=gold,#fffacd"/>
   </a>
   <a href="https://api.whatsapp.com/send?phone=+923298605468&text=Hey">
-    <img src="https://img.shields.io/badge/💬_CONTACT_OWNER-FFD700?style=for-the-badge&logo=whatsapp&logoColor=black"/>
+    <img src="https://img.shields.io/badge/💬_CONTACT_OWNER-FFD700?style=for-the-badge&logo=whatsapp&logoColor=black&gradient=gold,#fff8dc"/>
   </a>
 </p>
 
