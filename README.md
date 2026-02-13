@@ -16,6 +16,10 @@
   Maintained by <b>PakTechX 🚀</b>
 </p>
 
+<p align="center">
+  <img src="https://i.imgur.com/LyHic3i.gif"/>
+</p>
+
 ---
 
 ## ⭐ Fork • Star • Support
@@ -29,6 +33,10 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://i.imgur.com/LyHic3i.gif"/>
+</p>
+
 ---
 
 ## 🔑 Get Pair Code (Session)
@@ -39,6 +47,10 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://i.imgur.com/LyHic3i.gif"/>
+</p>
+
 ---
 
 ## 🚀 Deploy Now (Heroku)
@@ -47,6 +59,10 @@
   <a href="https://dashboard.heroku.com/new?template=https://github.com/PakTechX/PROVA-MD">
     <img src="https://img.shields.io/badge/🚀_DEPLOY_HEROKU-FFD700?style=for-the-badge&logo=heroku&logoColor=black"/>
   </a>
+</p>
+
+<p align="center">
+  <img src="https://i.imgur.com/LyHic3i.gif"/>
 </p>
 
 ---
@@ -62,6 +78,10 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://i.imgur.com/LyHic3i.gif"/>
+</p>
+
 ---
 
 ## ⚡ Features
@@ -75,6 +95,10 @@
 | AI Commands | ✅ |
 | Easy Deploy | ✅ |
 
+<p align="center">
+  <img src="https://i.imgur.com/LyHic3i.gif"/>
+</p>
+
 ---
 
 ## 🛡️ Warning & Disclaimer
@@ -83,7 +107,9 @@
 > For learning & fun only. Give proper credits.  
 > Owner not responsible for misuse.
 
----
+<p align="center">
+  <img src="https://i.imgur.com/LyHic3i.gif"/>
+</p>
 
 <h2 align="center" style="color:#FFD700;">
   🌟 THANK YOU FOR USING PROVA-MD 🌟
