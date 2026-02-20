@@ -1,10 +1,10 @@
 FROM node:lts-buster
 
 # Clone bot from GitHub
-RUN git clone https://github.com/Adeel-Xtech/ADEEL-MD.git /root/adeel-bot
+RUN git clone https://github.com/PakTechX/PROVA-MD.git /root/prova-bot
 
 # Set working directory
-WORKDIR /root/arslan-bot
+WORKDIR /root/kamran-bot
 
 # Install dependencies
 RUN npm install && npm install -g pm2 || yarn install --network-concurrency 1
