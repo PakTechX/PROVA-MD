@@ -1,5 +1,5 @@
 {
-  "name": "ADEEL-MD",
+  "name": "PROVA-MD",
   "description": "Javascript WhatsApp bot made by PROVA-MD",
   "logo": "https://files.catbox.moe/e4za15.jpg",
   "keywords": ["PROVA-MD"],
@@ -58,13 +58,13 @@
     "AUTO_STATUS_SEEN": {
       "description": "Make it true for automatic status seen.",
       "required": true,
-      "value": "true"
+      "value": "false"
     }, 
 
     "AUTO_STATUS_REACT": {
       "description": "make it true for automatic status reaction or like.",
       "required": true,
-      "value": "true"
+      "value": "false"
     }, 
 
     "AUTO_STATUS_REPLY": {
@@ -130,7 +130,7 @@
     "MENU_IMAGE_URL": {
       "description": "add url for mention reply and menu if want.",
       "required": false,
-      "value": "https://files.catbox.moe/jxdffn.jpg"
+      "value": "https://files.catbox.moe/e4za15.jpg"
     },
     
     "DESCRIPTION": {
