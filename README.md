@@ -62,10 +62,10 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>  
 ## 📡 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 𝐂𝐎𝐍𝐍𝐄𝐂𝐓𝐒  
 <p align="center">  
-  <a href="https://whatsapp.com/channel/0029VbBmz4V5vKAIaWfYPT0C">  
+  <a href="https://whatsapp.com/channel/0029VbAhxYY90x2vgwhXJV3O">  
     <img src="https://img.shields.io/badge/Join-Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />  
   </a>  
-  <a href="https://api.whatsapp.com/send?phone=+923035512967&text=➪𝐇𝐄𝐘𓆩🐍🍷🌹'">  
+  <a href="https://api.whatsapp.com/send?phone=+923147168309&text=➪𝐇𝐄𝐘𓆩🐍🍷🌹'">  
     <img src="https://img.shields.io/badge/Contact-Owner-ff0000?style=for-the-badge&logo=whatsapp&logoColor=white" />  
   </a>  
 </p>  
