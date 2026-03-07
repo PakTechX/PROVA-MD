@@ -1,7 +1,7 @@
 {
   "name": "PROVA-MD",
   "description": "Javascript WhatsApp bot made by PROVA-MD",
-  "logo": "https://files.catbox.moe/jxdffn.jpg",
+  "logo": "https://files.catbox.moe/7qfwan.jpg",
   "keywords": ["PROVA-MD"],
   "success_url": "/",
 
@@ -88,7 +88,7 @@
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "923147168309"
+      "value": "9230xxxxxx"
     }, 
 
     "BOT_NAME": {
@@ -130,7 +130,7 @@
     "MENU_IMAGE_URL": {
       "description": "add url for mention reply and menu if want.",
       "required": false,
-      "value": "https://files.catbox.moe/jxdffn.jpg"
+      "value": "https://files.catbox.moe/7qfwan.jpg"
     },
     
     "DESCRIPTION": {
