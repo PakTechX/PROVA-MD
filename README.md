@@ -98,7 +98,7 @@
 ❌ Don’t sell or misuse  
 ✨ Respect the creator  
   
----  
+---  tiktok.com/@sadboydj1
   
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>  
 <h2 align="center">  
